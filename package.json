@@ -1,0 +1,17 @@
+{
+  "name": "grapefruit-music-player",
+  "version": "1.0.0",
+  "description": "HTML5 Music Player by AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+  },
+  "author": "useLess",
+  "license": "ISC",
+  "devDependencies": {
+    "module": "0.0.1"
+  }
+}
