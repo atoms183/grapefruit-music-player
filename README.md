@@ -1,6 +1,11 @@
-﻿#grapefruit-music-player
+#grapefruit-music-player
 
 ####HTML5 Music player by AngularJS/Less
+
+##Usage
+ - Install dependencies `$ npm install`
+ - Build `$ grunt`
+ - Entry point `player/index.html`
 
 ####Changelog
 >- update body font color to beautify the UI
